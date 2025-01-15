@@ -17,7 +17,7 @@ Kurulum:
 Projeyi klonlayın:
 bash
 Kodu kopyala
-git clone <REPO_URL>
+git clone <[REPO_URL](https://github.com/Megartlix/basitchatprogram-.git)>
 cd okul-sosyal-platformu
 Gerekli bağımlılıkları yükleyin:
 bash
